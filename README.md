@@ -1,2 +1,3 @@
 # mytemplate
-tiny homepage project, super basic
+Tiny homepage project, super basic.
+All about templating.
